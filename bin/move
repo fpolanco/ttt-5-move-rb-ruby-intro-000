@@ -14,7 +14,7 @@ gets.strip = input
 def input_to_index(input)
     puts input.to_i-1
 end
-end
+
 #gets.strip = (input.to_i.n(" "))
 
 #def update_array_at_with(array, index, value)
